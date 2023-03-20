@@ -1,7 +1,6 @@
 // 01
 // const birthYear = +prompt('Enter your birth year -> ', '');
 // let currentData = 2023;
-// let age;
 
 // alert(`Your age is -> ${currentData - birthYear}`);
 
