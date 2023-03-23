@@ -27,7 +27,6 @@
 
 // alert(`amount of files that can be saved on the flash drive -> ${(flashDrive * 1024) / file}`);
 
-
 // 06
 // const km = +prompt('Enter km -> ', '')
 // let mils = km * 0.62137
