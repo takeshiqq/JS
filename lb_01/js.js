@@ -1,7 +1,6 @@
 // 01
 // const birthYear = +prompt('Enter your birth year -> ', '');
 // let currentData = 2023;
-// let age;
 
 // alert(`Your age is -> ${currentData - birthYear}`);
 
@@ -27,3 +26,19 @@
 // let file = 820;
 
 // alert(`amount of files that can be saved on the flash drive -> ${(flashDrive * 1024) / file}`);
+
+
+// 06
+// const km = +prompt('Enter km -> ', '')
+// let mils = km * 0.62137
+
+// alert(mils)
+
+//07
+
+
+
+// 08
+// let number = +prompt('Enter the number -> ', '')
+
+// alert(number.toString().split('').sort().reverse().join(''))
